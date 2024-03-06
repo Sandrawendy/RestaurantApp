@@ -1,0 +1,12 @@
+C:\Users\hp\source\AboutUsPage\AboutUsPage\bin\Debug\AboutUsPage.exe.config
+C:\Users\hp\source\AboutUsPage\AboutUsPage\bin\Debug\AboutUsPage.exe
+C:\Users\hp\source\AboutUsPage\AboutUsPage\bin\Debug\AboutUsPage.pdb
+C:\Users\hp\source\AboutUsPage\AboutUsPage\bin\Debug\AboutUsPage.xml
+C:\Users\hp\source\AboutUsPage\AboutUsPage\obj\Debug\AboutUsPage.vbproj.AssemblyReference.cache
+C:\Users\hp\source\AboutUsPage\AboutUsPage\obj\Debug\AboutUsPage.Form1.resources
+C:\Users\hp\source\AboutUsPage\AboutUsPage\obj\Debug\AboutUsPage.Resources.resources
+C:\Users\hp\source\AboutUsPage\AboutUsPage\obj\Debug\AboutUsPage.vbproj.GenerateResource.cache
+C:\Users\hp\source\AboutUsPage\AboutUsPage\obj\Debug\AboutUsPage.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\AboutUsPage\AboutUsPage\obj\Debug\AboutUsPage.exe
+C:\Users\hp\source\AboutUsPage\AboutUsPage\obj\Debug\AboutUsPage.xml
+C:\Users\hp\source\AboutUsPage\AboutUsPage\obj\Debug\AboutUsPage.pdb
